@@ -5,6 +5,10 @@ import configparser
 import re
 import requests
 
+
+#Auto updating commited changes from Github on the Server
+#Will be reworked into maintaining Versions
+
 def read_bool(s: str) -> bool:
 	try:
 		return s.lower() == 'true'
