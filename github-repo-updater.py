@@ -1,4 +1,4 @@
-ort sys
+import sys
 import os
 import shutil
 import configparser
