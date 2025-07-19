@@ -1,2 +1,2 @@
 # Server-Backend
-Tools and Scripts for Server Bakcend Management
+Tools and Scripts for Server Backend Management
