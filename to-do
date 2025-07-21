@@ -1,5 +1,7 @@
-#Add Mysql
-#Add DB Management
-#Add Bash Management
-#Add Check Tool
-#Add Network Tooling
+#Setup Server
+#Setup Users and SSH access
+#Install Lampstack and Website / Webapp
+#Add Tools and Scripts for Management
+#Get Fullstack Django Setup
+#Setup Databases with Auth and Token Management
+#Brainstorm more ideas
